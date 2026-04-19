@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.campuscircle.app-merged_res-33:/layout_activity_login.xml.flat",
+        "source": "com.campuscircle.app-main-35:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.campuscircle.app-merged_res-33:/mipmap_ic_launcher.xml.flat",
+        "source": "com.campuscircle.app-main-35:/mipmap/ic_launcher.xml"
+    },
+    {
+        "merged": "com.campuscircle.app-merged_res-33:/layout_activity_handover.xml.flat",
+        "source": "com.campuscircle.app-main-35:/layout/activity_handover.xml"
+    },
+    {
+        "merged": "com.campuscircle.app-merged_res-33:/layout_fragment_requests.xml.flat",
+        "source": "com.campuscircle.app-main-35:/layout/fragment_requests.xml"
+    },
+    {
+        "merged": "com.campuscircle.app-merged_res-33:/layout_activity_signup.xml.flat",
+        "source": "com.campuscircle.app-main-35:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.campuscircle.app-merged_res-33:/layout_activity_item_detail.xml.flat",
+        "source": "com.campuscircle.app-main-35:/layout/activity_item_detail.xml"
+    },
+    {
+        "merged": "com.campuscircle.app-merged_res-33:/mipmap_ic_launcher_round.xml.flat",
+        "source": "com.campuscircle.app-main-35:/mipmap/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.campuscircle.app-merged_res-33:/layout_fragment_list.xml.flat",
+        "source": "com.campuscircle.app-main-35:/layout/fragment_list.xml"
+    },
+    {
+        "merged": "com.campuscircle.app-merged_res-33:/layout_row_item.xml.flat",
+        "source": "com.campuscircle.app-main-35:/layout/row_item.xml"
+    },
+    {
+        "merged": "com.campuscircle.app-merged_res-33:/layout_fragment_profile.xml.flat",
+        "source": "com.campuscircle.app-main-35:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.campuscircle.app-merged_res-33:/layout_activity_splash.xml.flat",
+        "source": "com.campuscircle.app-main-35:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.campuscircle.app-merged_res-33:/layout_activity_request_detail.xml.flat",
+        "source": "com.campuscircle.app-main-35:/layout/activity_request_detail.xml"
+    },
+    {
+        "merged": "com.campuscircle.app-merged_res-33:/menu_bottom_nav.xml.flat",
+        "source": "com.campuscircle.app-main-35:/menu/bottom_nav.xml"
+    },
+    {
+        "merged": "com.campuscircle.app-merged_res-33:/layout_activity_review.xml.flat",
+        "source": "com.campuscircle.app-main-35:/layout/activity_review.xml"
+    },
+    {
+        "merged": "com.campuscircle.app-merged_res-33:/layout_activity_post_item.xml.flat",
+        "source": "com.campuscircle.app-main-35:/layout/activity_post_item.xml"
+    },
+    {
+        "merged": "com.campuscircle.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.campuscircle.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.campuscircle.app-merged_res-33:/drawable_bg_card.xml.flat",
+        "source": "com.campuscircle.app-main-35:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.campuscircle.app-merged_res-33:/layout_fragment_home.xml.flat",
+        "source": "com.campuscircle.app-main-35:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.campuscircle.app-merged_res-33:/layout_row_transaction.xml.flat",
+        "source": "com.campuscircle.app-main-35:/layout/row_transaction.xml"
+    },
+    {
+        "merged": "com.campuscircle.app-merged_res-33:/drawable_bg_chip.xml.flat",
+        "source": "com.campuscircle.app-main-35:/drawable/bg_chip.xml"
+    },
+    {
+        "merged": "com.campuscircle.app-merged_res-33:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.campuscircle.app-main-35:/drawable/ic_launcher_foreground.xml"
+    }
+]
